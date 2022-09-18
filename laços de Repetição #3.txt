@@ -1,0 +1,36 @@
+programa
+{
+	funcao inicio ()
+	{
+		)
+	}
+		//Entrada de Dados 
+		
+		
+           inteiro C = 0 , S = 0 , M= 0, Y = 0
+
+			escreva ( "\n O seu numero positivo é: ")
+			leia (C)
+			
+	//Processamento	
+	//Processamento 
+	
+				enquanto (C>= 0 ){
+				S+= x Y++ e i (C)
+			
+}
+		//Conclusão //Conclusão 
+			media = S/Y
+	    	escreva( "\n c sera igual a:" ,som,)
+			
+		 escreva("\n O valor total sera:") ,Y,)
+		 escreva ( "\n Sabendo que sua media dos válores:",media,)
+				
+		
+		
+		
+		
+		
+		
+	}
+}
