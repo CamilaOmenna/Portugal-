@@ -1,0 +1,24 @@
+programa
+{
+	funcao inicio ()
+	{
+
+		
+		)
+		 
+		 
+		
+		inteiro numero, teclado, soma,1,0 
+
+		escreva("\n Me informe porfavor o numero que voce deseja")
+		leia(numero)
+
+
+		faca	soma += teclado 
+
+			teclado++
+		}enquanto(teclado <= numero) escreva("A soma que  você deseja: ", soma)
+		
+		
+	}
+}

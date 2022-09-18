@@ -1,0 +1,22 @@
+programa
+{
+	funcao inicio ()
+	{
+		
+        inteiro S= 0
+
+		para (inteiro x = 0) (x <= 500 x+=3){
+		se   (x % 2 != 0){  	soma += x
+	
+		escreva("\nA soma dos conjunto sera de: ",soma,)
+	}
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

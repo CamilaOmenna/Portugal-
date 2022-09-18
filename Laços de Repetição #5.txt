@@ -1,0 +1,29 @@
+programa
+{
+	funcao inicio ()
+	{
+
+		
+		inteiro contagem = 233
+		
+	faca{
+		
+		se (contagem >300 e contagem <400)
+	   escreva ("\n O numero esta em processo:")
+		 
+		 n+=3
+		 
+		 senao ("\n O número esta em processo:")
+		 n+=5
+		 
+		 
+		 
+		 enquanto(contagem<=457)
+		 
+		 
+		
+		
+		
+		
+	}
+}
